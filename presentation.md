@@ -14,7 +14,7 @@
 
 - Was ist eine Suchmaschine?
   - Welche gibt es?
-- Wie fuktioniert das eigentlich?
+- Wie funktioniert das eigentlich?
 - Wie benutzt man eine Suchmaschine?
 
 <!-- section -->
@@ -67,7 +67,7 @@
 
 ## Der Webcrawler
 
-- Durchsucht Webseiten nach weiteren Seiten
+- Durchsucht Webseiten nach Links
 - Merkt sich neue oder tote Links
 
 <!-- slide -->
@@ -82,9 +82,8 @@
 
 - Erkennt Synonyme und setzt sie in Kontext
 - Untersucht ob spezifisch oder umfassend
-  - Öffnungszeiten der Migros
+  - Öffnungszeiten Migros
   - Wie funktioniert Google?
-- Sprache
 
 <!-- slide -->
 
@@ -123,6 +122,13 @@
 
 <!-- slide -->
 
+## Grundsätzlich
+
+- Schlüsselwörter benutzen
+- Möglichst spezifisch sein
+
+<!-- slide -->
+
 # Was ist das für eine Ofen Einstellung?
 
 <!-- .slide: class="master04" -->
@@ -140,13 +146,13 @@
 
 ## Was muss ich eingeben?
 
-**Bauknecht BAR2 KH8V2 Anleitung**
+A. **Bauknecht BAR2 KH8V2 Anleitung**
 
-**Was ist die dritte Einstellung von meinem Bauknecht Backofen?**
+B. **Was ist die dritte Einstellung von meinem Bauknecht Backofen?**
 
 <!-- slide -->
 
-# Was sind die aktuellen Krimi Bücher Bestseller?
+# Was sind die aktuellen Krimi Bestseller?
 
 <!-- .slide: class="master04" -->
 
@@ -154,6 +160,7 @@
 
 ## Was will ich?
 
+- Bücher
 - Eine Liste von Bestsellern
 - In der Schweiz, aktuelles Jahr
 - Klares Genre
@@ -162,9 +169,9 @@
 
 ## Was muss ich eingeben?
 
-**Krimi Buch Bestseller Schweiz 2019**
+A. **Krimi Buch Bestseller Schweiz 2019**
 
-**Was sind die aktuellen Krimi Bestseller der Schweiz?**
+B. **Was sind die aktuellen Krimi Bestseller der Schweiz?**
 
 <!-- slide -->
 
@@ -183,9 +190,13 @@
 
 <!-- slide -->
 
-## Ihr wisst nun...
+- Suchmaschine(n)
+- Sammlung von Webseiten
+- Suche durch die Sammlung
+- Suche unterstützen um uns zu helfen
 
-- was eine Suchmaschine ist
-- wie eine Sammlung von Webseiten zu Stande kommt
-- wie durch die Sammlung gesucht wird
-- wie ihr die Suche unterstützen könnt
+<!-- slide -->
+
+# Gib mir Fragen
+
+<!-- .slide: class="master05" -->
