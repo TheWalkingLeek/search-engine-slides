@@ -12,6 +12,8 @@
 
 ## Inhalt
 
+### Nils Rauch 03.12.2019
+
 - Was ist eine Suchmaschine?
   - Welche gibt es?
 - Wie funktioniert das eigentlich?
@@ -27,7 +29,7 @@
 
 ## Definition
 
-- Applikation
+- Webseite
 - Durchsucht das Web anhand des Suchbegriffs
 
 <!-- slide -->
@@ -67,8 +69,7 @@
 
 ## Der Webcrawler
 
-- Durchsucht Webseiten nach Links
-- Merkt sich neue oder tote Links
+<img src="assets/webcrawler.png" style="width: 50%; height: 30%;"></img>
 
 <!-- slide -->
 
@@ -78,19 +79,19 @@
 
 <!-- slide -->
 
+## Relevanz der Webseiten
+
+- Sucht nach deinen Wörtern
+- Sucht nach Wörtern im selben Kontext
+
+<!-- slide -->
+
 ## Bedeutung der Suche
 
 - Erkennt Synonyme und setzt sie in Kontext
 - Untersucht ob spezifisch oder umfassend
   - Öffnungszeiten Migros
   - Wie funktioniert Google?
-
-<!-- slide -->
-
-## Relevanz der Webseiten
-
-- Sucht nach deinen Wörtern
-- Sucht nach Wörtern im selben Kontext
 
 <!-- slide -->
 
@@ -139,7 +140,7 @@
 
 - Fixe Information vom Hersteller
 - Nur eine Quelle
-- Klares Modell
+- Spezifisches Gerät
 - **Anleitung** --> Dokument
 
 <!-- slide -->
